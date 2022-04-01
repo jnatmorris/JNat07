@@ -1,5 +1,5 @@
-JNat07
+# Howdy :wave:
 
-
-
-Testing123
+-   Uni student
+-   Typescript fanatic
+-   ReactJS
