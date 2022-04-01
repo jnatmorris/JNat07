@@ -1,4 +1,4 @@
-# Howdy :wave:
+# Hey :wave:
 
 -   Uni student
 -   Typescript fanatic
