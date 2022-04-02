@@ -1,4 +1,4 @@
-# Howdy, I'm Justin :wave:
+# Howdy :wave:
 
 -   Uni student
 -   Web dev (ReactJS)
