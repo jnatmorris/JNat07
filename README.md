@@ -1,6 +1,6 @@
 # Howdy :wave:
 
-### About me:
+#### About me:
 
 -   Uni student
 -   Typescript fanatic
