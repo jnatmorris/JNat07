@@ -1,5 +1,5 @@
 # Howdy :wave:
 
--   Current Uni student
+-   Uni student
 -   Web dev (ReactJS)
 -   Typescript fanatic
